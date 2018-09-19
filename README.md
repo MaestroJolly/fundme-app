@@ -1,2 +1,2 @@
 # e-store-app
-A simple python based online store application with flutterwave payment API 
+A simple python based NGO application with flutterwave payment API 
